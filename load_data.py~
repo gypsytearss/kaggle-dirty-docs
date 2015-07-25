@@ -5,7 +5,6 @@ import sys
 
 
 def load_data():
-
     dirname = "Data"
     compname = "Kaggle-DirtyDocs"
     path = os.path.expanduser(os.path.join('~', dirname, compname))
